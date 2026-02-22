@@ -208,3 +208,5 @@ __marimo__/
 
 .vscode
 .idea
+
+frontend/node_modules
